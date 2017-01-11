@@ -1,0 +1,20 @@
+Gui:
+	Champion Info
+		Buttons:
+			Search/add
+		jLabels:
+			Überschrift
+			Latest Game:
+				Victory/Loss
+				Opponent
+				Lifes left
+				Percent left
+			Average:
+				Winrate%
+				Sum of games
+	New Game
+		
+
+Methods:
+	Gui:
+		Update

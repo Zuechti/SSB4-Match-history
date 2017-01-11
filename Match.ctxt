@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=w\ l\ lp\ opp
+comment0.target=Match(boolean,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getOpponent()
+comment2.params=
+comment2.target=boolean\ hasWon()
+comment3.params=
+comment3.target=int\ getLifes()
+comment4.params=
+comment4.target=int\ getLatestPercent()
+numComments=5
